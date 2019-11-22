@@ -43,6 +43,7 @@ function noWeakLink() {
     method: 'GET',
     url: '/api/users'
   })
+
   // CODE HERE...
 
 }
@@ -74,6 +75,7 @@ function large() {
   return 'My name is ' + this.name + ' and I am very heavy!'
 }
 // CODE HERE...
+
 
 
 
